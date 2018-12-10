@@ -1,0 +1,6 @@
+framework module Pods_YJIphoneInfoLib_Tests {
+  umbrella header "Pods-YJIphoneInfoLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

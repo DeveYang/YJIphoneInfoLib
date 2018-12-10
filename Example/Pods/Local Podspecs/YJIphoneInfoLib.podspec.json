@@ -1,0 +1,22 @@
+{
+  "name": "YJIphoneInfoLib",
+  "version": "0.1.0",
+  "summary": "A short description of YJIphoneInfoLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/535328110@qq.com/YJIphoneInfoLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "535328110@qq.com": "yangjian@gomeplus.com"
+  },
+  "source": {
+    "git": "https://github.com/535328110@qq.com/YJIphoneInfoLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YJIphoneInfoLib/Classes/**/*"
+}
